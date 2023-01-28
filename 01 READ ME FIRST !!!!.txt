@@ -1,0 +1,19 @@
+
+
+ADMIN PANEL LOGIN DETAILS
+
+
+Admin login Url = http://localhost/voting/admin/index.php
+password = 123456
+username = jump
+
+
+SAMPLE VOTERS
+***** voters log in: The system generates automatic voters ID.*****
+*** remember this logon details for voters is one time ****
+name = Gabinus Chinamezu
+voters_id = 
+password = 123456
+
+
+#THANK YOU
